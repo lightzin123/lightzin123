@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lightzin123/lightzin123/output/snake.svg" alt="Snake animation"/>
+<img src="https://github.com/xmuSistone/android-snake-menu.git" alt="Snake animation"/>
 
 ###
